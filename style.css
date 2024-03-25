@@ -34,6 +34,7 @@ h3{
 #cuadro2{
     background: linear-gradient(45deg,rgb(39, 11, 104), #520e00);
     font-size: 25px;
+    color: white;
 }
 img{
     width: 850px;
